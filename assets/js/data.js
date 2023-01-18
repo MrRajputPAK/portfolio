@@ -9,11 +9,7 @@ var skills= [
     },
     {
         name : "Javascript",
-        val : "85"
-    },
-    {
-        name : "jQuery",
-        val : "85"
+        val : "60"
     },
     {
         name : "Bootstrap",
@@ -24,21 +20,9 @@ var skills= [
         val : "45"
     },
     {
-        name : "Angular / Vue",
-        val : "25"
-    },
-    {
         name : "Wordpress",
-        val : "80"
-    },
-    {
-        name : "Photoshop",
         val : "90"
     },
-    {
-        name : "Illustrator",
-        val : "80"
-    }
 ]
 
 var portfolios = [
